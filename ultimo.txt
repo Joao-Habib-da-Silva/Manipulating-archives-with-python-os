@@ -1,0 +1,5 @@
+Primeiro result com comando:
+Oi maninhoooo
+Com os start file ele abriu o documento no bloco de notas
+Troquei o nome dele, o nome dele era oi
+Ele apagou o agua.txt
